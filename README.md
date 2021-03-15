@@ -1,1 +1,1 @@
-# Covid-19-Time-Series-Prediction
+# Covid-19 Time Series Forecasting
